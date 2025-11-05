@@ -17,6 +17,7 @@
                 <param name="Высота, мм">100</param> <!-- form['height'] = 8см -->
                 <param name="Ширина, мм">100</param> <!-- form['width'] = 5см -->
 				<consist name="роза" unit="шт">1</consist>
+<qty>100</qty>
             </offer>
         </offers>
     </shop>
