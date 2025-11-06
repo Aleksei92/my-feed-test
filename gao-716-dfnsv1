@@ -11,7 +11,7 @@
             <offer id="1004" available="true">
                 <categoryId>1</categoryId> <!-- form['range_type_id'] -->
                 <price>2000</price><!-- form['cost'] -->
-                <name>Роза красная мимниальный</name> <!-- form['name'] -->
+                <name>Роза красная проверка тега остатока для цветочных категорий</name> <!-- form['name'] -->
                 <description>Красивая красная роза прекрасная великолепная</description> <!-- form['description'] -->
 <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
                 <param name="Высота, мм">100</param> <!-- form['height'] = 8см -->
