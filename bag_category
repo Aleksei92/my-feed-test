@@ -5,19 +5,43 @@
         <company>ООО Флоувоу</company>
         <url>https://flowwow.loc</url>
         <categories>
-            <category id="1">Цветы</category>
+            <category id="4">Растения</category>
+<category id="177" parentId="4">Лиственные</category>
+<category id="38" parentId="177">Аглаонема</category>
         </categories>
         <offers>
-            <offer id="1004" available="true">
-                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
+            <offer id="1005" available="true">
+                <categoryId>4</categoryId> <!-- form['range_type_id'] -->
                 <price>2000</price><!-- form['cost'] -->
-                <name>Роза красная мимниальный</name> <!-- form['name'] -->
+                <name>Роза красная мимниальный категория</name> <!-- form['name'] -->
                 <description>Красивая красная роза прекрасная великолепная</description> <!-- form['description'] -->
                 <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
 <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
 <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
-                <qty>4</qty>
-                  <minorder>5</minorder>
+<param name="Высота, мм">10</param> <!-- form['height'] = 8см -->
+                <param name="Ширина, мм">10</param> <!-- form['width'] = 5см -->
+				<consist name="роза" unit="шт">1</consist>
+            </offer>
+<offer id="1006" available="true">
+                <categoryId>177</categoryId> <!-- form['range_type_id'] -->
+                <price>2000</price><!-- form['cost'] -->
+                <name>Роза красная мимниальный подкатегория</name> <!-- form['name'] -->
+                <description>Красивая красная роза прекрасная великолепная</description> <!-- form['description'] -->
+                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+<picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
+<picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
+<param name="Высота, мм">10</param> <!-- form['height'] = 8см -->
+                <param name="Ширина, мм">10</param> <!-- form['width'] = 5см -->
+				<consist name="роза" unit="шт">1</consist>
+            </offer>
+<offer id="1007" available="true">
+                <categoryId>38</categoryId> <!-- form['range_type_id'] -->
+                <price>2000</price><!-- form['cost'] -->
+                <name>Роза красная мимниальный подкатегория подкатегории</name> <!-- form['name'] -->
+                <description>Красивая красная роза прекрасная великолепная</description> <!-- form['description'] -->
+                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+<picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
+<picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
 <param name="Высота, мм">10</param> <!-- form['height'] = 8см -->
                 <param name="Ширина, мм">10</param> <!-- form['width'] = 5см -->
 				<consist name="роза" unit="шт">1</consist>
