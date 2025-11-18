@@ -16,7 +16,7 @@
                 <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
 <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
 <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
-                <qty>5</qty>
+                <qty>4</qty>
                   <minorder>5</minorder>
 <param name="Высота, мм">10</param> <!-- form['height'] = 8см -->
                 <param name="Ширина, мм">10</param> <!-- form['width'] = 5см -->
