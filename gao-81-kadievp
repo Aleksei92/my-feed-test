@@ -16,9 +16,9 @@
                 <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
 <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
 <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
-                <param name="Высота, мм">10</param> <!-- form['height'] = 8см -->
-                <param name="Ширина, мм">10</param> <!-- form['width'] = 5см -->
-				<consist name="роза" unit="шт">1</consist>
+                <param name="Height, cm">40</param>
+    <param name="Width, cm">40</param>
+				<consist name="Rose" unit="pcs">1</consist>
             </offer>
         </offers>
     </shop>
