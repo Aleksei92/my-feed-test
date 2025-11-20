@@ -4,14 +4,10 @@
         <name>Флоувоу минимальный магазин</name>
         <company>ООО Флоувоу</company>
         <url>https://flowwow.loc</url>
-
         <categories>
             <category id="1">Цветы</category>
         </categories>
-
         <offers>
-
-            <!-- 🇷🇺 RU -->
             <offer id="100401" available="true">
                 <categoryId>1</categoryId>
                 <price>2000</price>
@@ -24,8 +20,6 @@
                 <param name="Ширина, см">10</param>
                 <consist name="роза" unit="шт">1</consist>
             </offer>
-
-            <!-- 🇬🇧 EN -->
             <offer id="100402" available="true">
                 <categoryId>1</categoryId>
                 <price>2000</price>
@@ -37,9 +31,7 @@
                 <param name="Height, cm">10</param>
                 <param name="Width, cm">10</param>
                 <consist name="rose" unit="pcs">1</consist>
-            </offer>
-
-            <!-- 🇪🇸 ES -->
+            </offer>          
             <offer id="100403" available="true">
                 <categoryId>1</categoryId>
                 <price>2000</price>
@@ -66,8 +58,6 @@
                 <param name="Genişlik, cm">10</param>
                 <consist name="gül" unit="adet">1</consist>
             </offer>
-
-            <!-- 🇰🇿 KZ -->
             <offer id="100405" available="true">
                 <categoryId>1</categoryId>
                 <price>2000</price>
@@ -80,8 +70,6 @@
                 <param name="Ені, см">10</param>
                 <consist name="раушан" unit="дана">1</consist>
             </offer>
-
-            <!-- 🇧🇷 PT-BR -->
             <offer id="100406" available="true">
                 <categoryId>1</categoryId>
                 <price>2000</price>
@@ -94,8 +82,6 @@
                 <param name="Largura, cm">10</param>
                 <consist name="rosa" unit="un">1</consist>
             </offer>
-
-            <!-- 🇫🇷 FR -->
             <offer id="100407" available="true">
                 <categoryId>1</categoryId>
                 <price>2000</price>
@@ -108,8 +94,6 @@
                 <param name="Largeur, cm">10</param>
                 <consist name="rose" unit="pcs">1</consist>
             </offer>
-
-            <!-- 🇺🇦 UA -->
             <offer id="100408" available="true">
                 <categoryId>1</categoryId>
                 <price>2000</price>
@@ -122,8 +106,6 @@
                 <param name="Ширина, см">10</param>
                 <consist name="троянда" unit="шт">1</consist>
             </offer>
-
-            <!-- 🇭🇺 HU -->
             <offer id="100409" available="true">
                 <categoryId>1</categoryId>
                 <price>2000</price>
@@ -136,8 +118,6 @@
                 <param name="Szélesség, cm">10</param>
                 <consist name="rózsa" unit="db">1</consist>
             </offer>
-
-            <!-- 🇵🇱 PL -->
             <offer id="100410" available="true">
                 <categoryId>1</categoryId>
                 <price>2000</price>
@@ -150,8 +130,6 @@
                 <param name="Szerokość, cm">10</param>
                 <consist name="róża" unit="szt">1</consist>
             </offer>
-
-            <!-- 🇦🇿 AZ -->
             <offer id="100411" available="true">
                 <categoryId>1</categoryId>
                 <price>2000</price>
@@ -164,8 +142,6 @@
                 <param name="En, sm">10</param>
                 <consist name="gül" unit="ədəd">1</consist>
             </offer>
-
-            <!-- 🇩🇪 DE -->
             <offer id="100412" available="true">
                 <categoryId>1</categoryId>
                 <price>2000</price>
@@ -178,8 +154,6 @@
                 <param name="Breite, cm">10</param>
                 <consist name="rose" unit="st">1</consist>
             </offer>
-
-            <!-- 🇮🇹 IT -->
             <offer id="100413" available="true">
                 <categoryId>1</categoryId>
                 <price>2000</price>
@@ -192,7 +166,6 @@
                 <param name="Larghezza, cm">10</param>
                 <consist name="rosa" unit="pz">1</consist>
             </offer>
-
         </offers>
     </shop>
 </yml_catalog>
