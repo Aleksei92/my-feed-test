@@ -4,22 +4,196 @@
         <name>Флоувоу минимальный магазин</name>
         <company>ООО Флоувоу</company>
         <url>https://flowwow.loc</url>
+
         <categories>
             <category id="1">Цветы</category>
         </categories>
+
         <offers>
-            <offer id="1004" available="true">
-                <categoryId>1</categoryId> <!-- form['range_type_id'] -->
-                <price>2000</price><!-- form['cost'] -->
-                <name>Роза красная мимниальный</name> <!-- form['name'] -->
-                <description>Красивая красная роза прекрасная великолепная</description> <!-- form['description'] -->
+
+            <!-- 🇷🇺 RU -->
+            <offer id="100401" available="true">
+                <categoryId>1</categoryId>
+                <price>2000</price>
+                <name>Роза красная минимальный (ru)</name>
+                <description>Красивая красная роза</description>
                 <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
-<picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
-<picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
-                <param name="Height, cm">40</param>
-    <param name="Width, cm">40</param>
-				<consist name="Rose" unit="pcs">1</consist>
+                <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
+                <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
+                <param name="Высота, см">10</param>
+                <param name="Ширина, см">10</param>
+                <consist name="роза" unit="шт">1</consist>
             </offer>
+
+            <!-- 🇬🇧 EN -->
+            <offer id="100402" available="true">
+                <categoryId>1</categoryId>
+                <price>2000</price>
+                <name>Red rose minimal (en)</name>
+                <description>Beautiful red rose</description>
+                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+                <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
+                <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
+                <param name="Height, cm">10</param>
+                <param name="Width, cm">10</param>
+                <consist name="rose" unit="pcs">1</consist>
+            </offer>
+
+            <!-- 🇪🇸 ES -->
+            <offer id="100403" available="true">
+                <categoryId>1</categoryId>
+                <price>2000</price>
+                <name>Rosa roja mínima (es)</name>
+                <description>Hermosa rosa roja</description>
+                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+                <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
+                <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
+                <param name="Altura, cm">10</param>
+                <param name="Ancho, cm">10</param>
+                <consist name="rosa" unit="ud">1</consist>
+            </offer>
+
+            <!-- 🇹🇷 TR -->
+            <offer id="100404" available="true">
+                <categoryId>1</categoryId>
+                <price>2000</price>
+                <name>Kırmızı gül minimal (tr)</name>
+                <description>Güzel kırmızı gül</description>
+                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+                <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
+                <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
+                <param name="Yükseklik, cm">10</param>
+                <param name="Genişlik, cm">10</param>
+                <consist name="gül" unit="adet">1</consist>
+            </offer>
+
+            <!-- 🇰🇿 KZ -->
+            <offer id="100405" available="true">
+                <categoryId>1</categoryId>
+                <price>2000</price>
+                <name>Қызыл раушан минималды (kz)</name>
+                <description>Әдемі қызыл раушан</description>
+                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+                <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
+                <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
+                <param name="Биіктігі, см">10</param>
+                <param name="Ені, см">10</param>
+                <consist name="раушан" unit="дана">1</consist>
+            </offer>
+
+            <!-- 🇧🇷 PT-BR -->
+            <offer id="100406" available="true">
+                <categoryId>1</categoryId>
+                <price>2000</price>
+                <name>Rosa vermelha mínima (pt_BR)</name>
+                <description>Bela rosa vermelha</description>
+                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+                <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
+                <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
+                <param name="Altura, cm">10</param>
+                <param name="Largura, cm">10</param>
+                <consist name="rosa" unit="un">1</consist>
+            </offer>
+
+            <!-- 🇫🇷 FR -->
+            <offer id="100407" available="true">
+                <categoryId>1</categoryId>
+                <price>2000</price>
+                <name>Rose rouge minimale (fr)</name>
+                <description>Belle rose rouge</description>
+                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+                <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
+                <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
+                <param name="Hauteur, cm">10</param>
+                <param name="Largeur, cm">10</param>
+                <consist name="rose" unit="pcs">1</consist>
+            </offer>
+
+            <!-- 🇺🇦 UA -->
+            <offer id="100408" available="true">
+                <categoryId>1</categoryId>
+                <price>2000</price>
+                <name>Червона троянда мінімальна (ua)</name>
+                <description>Гарна червона троянда</description>
+                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+                <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
+                <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
+                <param name="Висота, см">10</param>
+                <param name="Ширина, см">10</param>
+                <consist name="троянда" unit="шт">1</consist>
+            </offer>
+
+            <!-- 🇭🇺 HU -->
+            <offer id="100409" available="true">
+                <categoryId>1</categoryId>
+                <price>2000</price>
+                <name>Piros rózsa minimális (hu)</name>
+                <description>Gyönyörű piros rózsa</description>
+                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+                <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
+                <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
+                <param name="Magasság, cm">10</param>
+                <param name="Szélesség, cm">10</param>
+                <consist name="rózsa" unit="db">1</consist>
+            </offer>
+
+            <!-- 🇵🇱 PL -->
+            <offer id="100410" available="true">
+                <categoryId>1</categoryId>
+                <price>2000</price>
+                <name>Czerwona róża minimalna (pl)</name>
+                <description>Piękna czerwona róża</description>
+                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+                <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
+                <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
+                <param name="Wysokość, cm">10</param>
+                <param name="Szerokość, cm">10</param>
+                <consist name="róża" unit="szt">1</consist>
+            </offer>
+
+            <!-- 🇦🇿 AZ -->
+            <offer id="100411" available="true">
+                <categoryId>1</categoryId>
+                <price>2000</price>
+                <name>Qırmızı gül minimal (az)</name>
+                <description>Gözəl qırmızı gül</description>
+                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+                <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
+                <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
+                <param name="Hündürlük, sm">10</param>
+                <param name="En, sm">10</param>
+                <consist name="gül" unit="ədəd">1</consist>
+            </offer>
+
+            <!-- 🇩🇪 DE -->
+            <offer id="100412" available="true">
+                <categoryId>1</categoryId>
+                <price>2000</price>
+                <name>Rote Rose minimal (de)</name>
+                <description>Wunderschöne rote Rose</description>
+                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+                <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
+                <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
+                <param name="Höhe, cm">10</param>
+                <param name="Breite, cm">10</param>
+                <consist name="rose" unit="st">1</consist>
+            </offer>
+
+            <!-- 🇮🇹 IT -->
+            <offer id="100413" available="true">
+                <categoryId>1</categoryId>
+                <price>2000</price>
+                <name>Rosa rossa minimale (it)</name>
+                <description>Bellissima rosa rossa</description>
+                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
+                <picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
+                <picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
+                <param name="Altezza, cm">10</param>
+                <param name="Larghezza, cm">10</param>
+                <consist name="rosa" unit="pz">1</consist>
+            </offer>
+
         </offers>
     </shop>
 </yml_catalog>
+
