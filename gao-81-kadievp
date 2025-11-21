@@ -118,19 +118,7 @@
 <param name="Ширина, см">22</param>
 <consist name="роза" unit="шт">1</consist>
 </offer>
-            <offer id="100404" available="true">
-<categoryId>1</categoryId>
-<price>2000</price>
-<name>Kırmızı gül minimal (tr)</name>
-<description>Güzel kırmızı gül</description>
-<picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
-<picture>https://tkano.ru/upload/iblock/1c5/z0vx9dde3sqsdbfohjxw5vuheyrihnso.jpeg</picture>
-<picture>https://tkano.ru/upload/iblock/7f8/ains5y210q5v5jrrg0ou0kpj3hnw1vyx.jpeg</picture>
-<param name="Yükseklik, cm">23</param>
-<param name="Genişlik, cm">24</param>
-<consist name="gül" unit="adet">1</consist>
-</offer>
-            <offer id="100404" available="true">
+<offer id="100404" available="true">
 <categoryId>1</categoryId>
 <price>2000</price>
 <name>Kırmızı gül minimal</name>
