@@ -6,7 +6,6 @@
         <url>https://flowwow.loc</url>
         <categories>
             <category id="1">Цветы</category>
-<category id="2">Цветы2</category>
         </categories>
         <offers>
             <offer id="1004" available="true">
@@ -21,15 +20,5 @@
                 <param name="Ширина, мм">10</param> <!-- form['width'] = 5см -->
 				<consist name="роза" unit="шт">1</consist>
             </offer>
-<offer id="1005" available="true">
-                <categoryId>2</categoryId> <!-- form['range_type_id'] -->
-                <price>22</price><!-- form['cost'] -->
-                <name>Роза красная мимниальный новая категория указана для товара</name> <!-- form['name'] -->
-                <description>Красивая красная роза прекрасная великолепная</description> <!-- form['description'] -->
-                <picture>https://lh3.googleusercontent.com/d/1_ZEq_ZqiyGklC-WcV1dZMJfQuuefl8uF</picture>
-                <param name="Высота, мм">10</param> <!-- form['height'] = 8см -->
-                <param name="Ширина, мм">10</param> <!-- form['width'] = 5см -->
-				<consist name="роза" unit="шт">1</consist>
-        </offers>
     </shop>
 </yml_catalog>
