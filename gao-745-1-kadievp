@@ -18,7 +18,7 @@
 			<offer id="1" available="true">
 				<categoryId>1</categoryId>
 				<price>15</price>
-				<name>Цветы</name>
+				<name>Цветы1</name>
 				<description>Классический букет из 5 роз</description>
 				<picture>https://tkano.ru/upload/iblock/5a3/610oi8qe0m0bllapvdvbxmy74y5o6na9.jpeg</picture>
 <picture>https://tkano.ru/upload/iblock/1c2/c1fwbhwytitqk6w31u6zd1ug3z2mb4iu.jpeg</picture>
@@ -29,7 +29,7 @@
 			</offer>
 			<offer id="2" available="true">
 				<categoryId>2</categoryId>
-				<name>Цветы сухоцвет</name>
+				<name>Цветы сухоцвет1</name>
 				<price>12</price>
 				<description>Букет из лаванды и хлопка</description>
 				<picture>https://tkano.ru/upload/iblock/50c/28wykgxswdtipz0ufyp3uiwgdgn23aj7.jpeg</picture>
@@ -41,7 +41,7 @@
 			</offer>
 			<offer id="3" available="true">
 				<categoryId>3</categoryId>
-				<name>Цветы подарочные наборы</name>
+				<name>Цветы подарочные наборы1</name>
 				<price>25</price>
 				<description>Набор с цветами и сладостями</description>
 				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/6a6/9zw7k1kccoi57suchl6312pvpnvk8y65.webp</picture>
@@ -52,7 +52,7 @@
 			</offer>
 			<offer id="4" available="true">
 				<categoryId>4</categoryId>
-				<name>Цветы мягкие игр</name>
+				<name>Цветы мягкие игр1</name>
 				<price>18</price>
 				<description>Мишка, сделанный из роз</description>
 				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/7e6/8odgu0j9ju88is7wkf8fo3o5c7g0rikr.webp</picture>
@@ -62,7 +62,7 @@
 			</offer>
 			<offer id="5" available="true">
 				<categoryId>5</categoryId>
-				<name>Цветы цветы поштучно</name>
+				<name>Цветы цветы поштучно1</name>
 				<price>15</price>
 				<description>Одна красная роза</description>
 				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/bcc/f50jz5nrma1a7sqtuh3cq529otgpf9x7.webp</picture>
@@ -71,7 +71,7 @@
 			</offer>
 			<offer id="6" available="true">
 				<categoryId>6</categoryId>
-				<name>Цветы букет из мыла</name>
+				<name>Цветы букет из мыла1</name>
 				<price>8</price>
 				<description>Букет, имитирующий цветы</description>
 				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/bcc/f50jz5nrma1a7sqtuh3cq529otgpf9x7.webp</picture>
@@ -80,7 +80,7 @@
 			</offer>
 			<offer id="7" available="true">
 				<categoryId>7</categoryId>
-				<name>Цветы стабилизированные</name>
+				<name>Цветы стабилизированные1</name>
 				<price>2</price>
 				<description>Неувядающая роза в колбе</description>
 				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/bcc/f50jz5nrma1a7sqtuh3cq529otgpf9x7.webp</picture>
@@ -90,7 +90,7 @@
 			</offer>
 			<offer id="8" available="true">
 				<categoryId>8</categoryId>
-				<name>Цветы другое</name>
+				<name>Цветы другое1</name>
 				<price>3</price>
 				<description>Упаковочная бумага</description>
 				<picture>https://zvettorg.ru/upload/dev2fun.imagecompress/webp/iblock/bcc/f50jz5nrma1a7sqtuh3cq529otgpf9x7.webp</picture>
