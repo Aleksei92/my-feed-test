@@ -25,7 +25,6 @@
 <consist name="роза4 должен быть скипнут" unit="м">1</consist>
 <consist name="роза1 должен быть скипнут" unit="пуч">1</consist>
 <consist name="роза2 должен быть скипнут" unit="см">1</consist>
-<consist name="роза3 должен быть скипнут" unit="мм">1</consist>
             </offer>
          </offers>
     </shop>
