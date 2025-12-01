@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2023-12-12 12:00">
+<shop>
+<name>handcrafted.choco</name>
+<company>handcrafted.choco</company>
+<url>https://flowwow.com/shop/handcraftedchoco/</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="523">Для дома Хозяйственные товары</category>
+</categories>
+<offers>
+<offer id="11121" available="true">
+<url>https://denastia.com/catalog/vannaya/shchyetki-yershiki-dlya-unitaza/shchyetka-dlya-unitaza-640-ml/</url>
+<price>1349</price>
+<currencyId>RUB</currencyId>
+<categoryId>523</categoryId>
+<picture>http://703507.selcdn.ru/denastia/iblock/ae1/ae1c0460bd459b99675ed62bbf284bad/a38cdbc0bcbc103158729d0d229c7f3e.jpg</picture>
+<picture>http://703507.selcdn.ru/denastia/iblock/2b8/2b8e853db58e553884f07bb3f8fb550a/876cf354f5958fac253e79bc1578c60f.jpg</picture>
+<picture>http://703507.selcdn.ru/denastia/iblock/d73/d73771149ee8fb3449e2a7e5632481f5/dbf953ac3175a29218265df67ac5dd31.jpg</picture>
+<picture>http://703507.selcdn.ru/denastia/iblock/ba4/ba40f95af78b17c63e89dca7258ae01c/68b7e555ee21a2b27fc77a0ad452bd7e.jpg</picture>
+<delivery>true</delivery>
+<name>Щётка для унитаза 640мл</name>
+<vendorCode>X000167</vendorCode>
+<description>X000167</description>
+<param name="Цвет">белый</param>
+<param name="Материал / состав изделия">пластик</param>
+<param name="Высота, см">9</param>
+<param name="Ширина, см">36</param>
+<param name="Длина, см">9</param>
+<qty>242</qty>
+<weight>0.5</weight>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
