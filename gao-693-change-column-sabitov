@@ -5,11 +5,11 @@
         <company>ООО Флоувоу</company>
         <url>https://flowwow.loc</url>
         <categories>
-            <category id="bb474085-8362-11f0-0a80-0bc500001866">Цветы</category>
+            <category id="bb474085-8362-11">Цветы</category>
         </categories>
         <offers>
             <offer id="693" available="true">
-                <categoryId>bb474085-8362-11f0-0a80-0bc500001866</categoryId>
+                <categoryId>bb474085-8362-11</categoryId>
                 <price>220</price><!-- form['cost'] -->
                 <name>Роза красная прекрасная</name>
                 <description>Красивая красная роза прекрасная великолепная и хорошая</description>
