@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <yml_catalog date="2025-08-15 08:52">
 	<shop>
 		<name>Мастер-фид для всех категорий</name>
@@ -8,13 +8,13 @@
 			<category id="26">Обувь</category>
 		</categories>
 		<offers>
-			<!-- POSITIVE: men / мужчины -->
 			<offer id="2601" available="true">
 				<url>https://flowwow.loc/offer/2601</url>
 				<categoryId>26</categoryId>
 				<name>Обувь gender positive мужчины</name>
 				<price>4500</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Описание: Обувь gender positive мужчины</description>
 				<qty>100</qty>
 				<gender>мужчины</gender>
 			</offer>
@@ -24,6 +24,7 @@
 				<name>Обувь gender positive мужчина</name>
 				<price>4500</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Описание: Обувь gender positive мужчина</description>
 				<qty>100</qty>
 				<gender>мужчина</gender>
 			</offer>
@@ -33,6 +34,7 @@
 				<name>Обувь gender positive male</name>
 				<price>4500</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Описание: Обувь gender positive male</description>
 				<qty>100</qty>
 				<gender>male</gender>
 			</offer>
@@ -42,17 +44,17 @@
 				<name>Обувь gender positive men</name>
 				<price>4500</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Описание: Обувь gender positive men</description>
 				<qty>100</qty>
 				<gender>men</gender>
 			</offer>
-
-			<!-- POSITIVE: women / женщины -->
 			<offer id="2605" available="true">
 				<url>https://flowwow.loc/offer/2605</url>
 				<categoryId>26</categoryId>
 				<name>Обувь gender positive женщины</name>
 				<price>4500</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Описание: Обувь gender positive женщины</description>
 				<qty>100</qty>
 				<gender>женщины</gender>
 			</offer>
@@ -62,6 +64,7 @@
 				<name>Обувь gender positive женщина</name>
 				<price>4500</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Описание: Обувь gender positive женщина</description>
 				<qty>100</qty>
 				<gender>женщина</gender>
 			</offer>
@@ -71,6 +74,7 @@
 				<name>Обувь gender positive female</name>
 				<price>4500</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Описание: Обувь gender positive female</description>
 				<qty>100</qty>
 				<gender>female</gender>
 			</offer>
@@ -80,17 +84,17 @@
 				<name>Обувь gender positive women</name>
 				<price>4500</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Описание: Обувь gender positive women</description>
 				<qty>100</qty>
 				<gender>women</gender>
 			</offer>
-
-			<!-- POSITIVE: children / дети -->
 			<offer id="2609" available="true">
 				<url>https://flowwow.loc/offer/2609</url>
 				<categoryId>26</categoryId>
 				<name>Обувь gender positive дети</name>
 				<price>4500</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Описание: Обувь gender positive дети</description>
 				<qty>100</qty>
 				<gender>дети</gender>
 			</offer>
@@ -100,6 +104,7 @@
 				<name>Обувь gender positive children</name>
 				<price>4500</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Описание: Обувь gender positive children</description>
 				<qty>100</qty>
 				<gender>children</gender>
 			</offer>
@@ -109,17 +114,17 @@
 				<name>Обувь gender positive kids</name>
 				<price>4500</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Описание: Обувь gender positive kids</description>
 				<qty>100</qty>
 				<gender>kids</gender>
 			</offer>
-
-			<!-- NEGATIVE -->
 			<offer id="2612" available="true">
 				<url>https://flowwow.loc/offer/2612</url>
 				<categoryId>26</categoryId>
 				<name>Обувь gender negative boys не подходит для обуви</name>
 				<price>4500</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Описание: Обувь gender negative boys не подходит для обуви</description>
 				<qty>100</qty>
 				<gender>boys</gender>
 			</offer>
@@ -129,6 +134,7 @@
 				<name>Обувь gender negative girls не подходит для обуви</name>
 				<price>4500</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Описание: Обувь gender negative girls не подходит для обуви</description>
 				<qty>100</qty>
 				<gender>girls</gender>
 			</offer>
@@ -138,6 +144,7 @@
 				<name>Обувь gender negative newborn не подходит для обуви</name>
 				<price>4500</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Описание: Обувь gender negative newborn не подходит для обуви</description>
 				<qty>100</qty>
 				<gender>newborn</gender>
 			</offer>
@@ -147,6 +154,7 @@
 				<name>Обувь gender negative неизвестное значение</name>
 				<price>4500</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Описание: Обувь gender negative неизвестное значение</description>
 				<qty>100</qty>
 				<gender>unisex</gender>
 			</offer>
@@ -156,8 +164,9 @@
 				<name>Обувь gender negative пустое значение</name>
 				<price>4500</price>
 				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Описание: Обувь gender negative пустое значение</description>
 				<qty>100</qty>
-				<gender></gender>
+				<gender />
 			</offer>
 		</offers>
 	</shop>
