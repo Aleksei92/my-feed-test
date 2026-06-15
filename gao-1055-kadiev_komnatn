@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-15 10:00">
+	<shop>
+		<name>Фид для проверки тегов комнатных растений</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="13">Комнатные растения 14</category>
+			<category id="14">Комнатные растения 20 саженцы и рассада</category>
+			<category id="15">Комнатные растения 140 Кашпо и горшки для цветов</category>
+		</categories>
+		<offers>
+			<!-- categoryId=13, PottedAndTreePlantForm: watering_frequency positive checks -->
+			<offer id="1301" available="true">
+				<url>https://flowwow.loc/offer/1301</url>
+				<categoryId>13</categoryId>
+				<name>Позитив watering_frequency unit weeks значение 10</name>
+				<price>100</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка импорта периодичности полива: weeks.</description>
+				<param name="Высота, мм">200</param>
+				<param name="Ширина, мм">150</param>
+				<watering_frequency unit="weeks">10</watering_frequency>
+			</offer>
+			<offer id="1302" available="true">
+				<url>https://flowwow.loc/offer/1302</url>
+				<categoryId>13</categoryId>
+				<name>Позитив watering_frequency unit week значение 1</name>
+				<price>101</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка импорта периодичности полива: week.</description>
+				<param name="Высота, мм">201</param>
+				<param name="Ширина, мм">151</param>
+				<watering_frequency unit="week">1</watering_frequency>
+			</offer>
+			<offer id="1303" available="true">
+				<url>https://flowwow.loc/offer/1303</url>
+				<categoryId>13</categoryId>
+				<name>Позитив watering_frequency unit неделя значение 2</name>
+				<price>102</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка импорта периодичности полива: неделя.</description>
+				<param name="Высота, мм">202</param>
+				<param name="Ширина, мм">152</param>
+				<watering_frequency unit="неделя">2</watering_frequency>
+			</offer>
+			<offer id="1304" available="true">
+				<url>https://flowwow.loc/offer/1304</url>
+				<categoryId>13</categoryId>
+				<name>Позитив watering_frequency unit недели значение 3</name>
+				<price>103</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка импорта периодичности полива: недели.</description>
+				<param name="Высота, мм">203</param>
+				<param name="Ширина, мм">153</param>
+				<watering_frequency unit="недели">3</watering_frequency>
+			</offer>
+			<offer id="1305" available="true">
+				<url>https://flowwow.loc/offer/1305</url>
+				<categoryId>13</categoryId>
+				<name>Позитив watering_frequency unit недель значение 5</name>
+				<price>104</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка импорта периодичности полива: недель.</description>
+				<param name="Высота, мм">204</param>
+				<param name="Ширина, мм">154</param>
+				<watering_frequency unit="недель">5</watering_frequency>
+			</offer>
+			<offer id="1306" available="true">
+				<url>https://flowwow.loc/offer/1306</url>
+				<categoryId>13</categoryId>
+				<name>Позитив watering_frequency unit months значение 6</name>
+				<price>105</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка импорта периодичности полива: months.</description>
+				<param name="Высота, мм">205</param>
+				<param name="Ширина, мм">155</param>
+				<watering_frequency unit="months">6</watering_frequency>
+			</offer>
+			<offer id="1307" available="true">
+				<url>https://flowwow.loc/offer/1307</url>
+				<categoryId>13</categoryId>
+				<name>Позитив watering_frequency unit month значение 1</name>
+				<price>106</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка импорта периодичности полива: month.</description>
+				<param name="Высота, мм">206</param>
+				<param name="Ширина, мм">156</param>
+				<watering_frequency unit="month">1</watering_frequency>
+			</offer>
+			<offer id="1308" available="true">
+				<url>https://flowwow.loc/offer/1308</url>
+				<categoryId>13</categoryId>
+				<name>Позитив watering_frequency unit месяц значение 2</name>
+				<price>107</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка импорта периодичности полива: месяц.</description>
+				<param name="Высота, мм">207</param>
+				<param name="Ширина, мм">157</param>
+				<watering_frequency unit="месяц">2</watering_frequency>
+			</offer>
+			<offer id="1309" available="true">
+				<url>https://flowwow.loc/offer/1309</url>
+				<categoryId>13</categoryId>
+				<name>Позитив watering_frequency unit месяца значение 3</name>
+				<price>108</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка импорта периодичности полива: месяца.</description>
+				<param name="Высота, мм">208</param>
+				<param name="Ширина, мм">158</param>
+				<watering_frequency unit="месяца">3</watering_frequency>
+			</offer>
+			<offer id="1310" available="true">
+				<url>https://flowwow.loc/offer/1310</url>
+				<categoryId>13</categoryId>
+				<name>Позитив watering_frequency unit месяцев значение 12</name>
+				<price>109</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка импорта периодичности полива: месяцев.</description>
+				<param name="Высота, мм">209</param>
+				<param name="Ширина, мм">159</param>
+				<watering_frequency unit="месяцев">12</watering_frequency>
+			</offer>
+
+			<!-- categoryId=13, PottedAndTreePlantForm: watering_frequency negative checks -->
+			<offer id="1311" available="true">
+				<url>https://flowwow.loc/offer/1311</url>
+				<categoryId>13</categoryId>
+				<name>Негатив watering_frequency отсутствует unit значение 4</name>
+				<price>110</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка обработки watering_frequency без unit.</description>
+				<param name="Высота, мм">210</param>
+				<param name="Ширина, мм">160</param>
+				<watering_frequency>4</watering_frequency>
+			</offer>
+			<offer id="1312" available="true">
+				<url>https://flowwow.loc/offer/1312</url>
+				<categoryId>13</categoryId>
+				<name>Негатив watering_frequency unit days значение 7</name>
+				<price>111</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка обработки неподдерживаемого unit days.</description>
+				<param name="Высота, мм">211</param>
+				<param name="Ширина, мм">161</param>
+				<watering_frequency unit="days">7</watering_frequency>
+			</offer>
+			<offer id="1313" available="true">
+				<url>https://flowwow.loc/offer/1313</url>
+				<categoryId>13</categoryId>
+				<name>Негатив watering_frequency unit year значение 1</name>
+				<price>112</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка обработки неподдерживаемого unit year.</description>
+				<param name="Высота, мм">212</param>
+				<param name="Ширина, мм">162</param>
+				<watering_frequency unit="year">1</watering_frequency>
+			</offer>
+			<offer id="1314" available="true">
+				<url>https://flowwow.loc/offer/1314</url>
+				<categoryId>13</categoryId>
+				<name>Негатив watering_frequency unit weeks значение строка</name>
+				<price>113</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка обработки нечислового значения watering_frequency.</description>
+				<param name="Высота, мм">213</param>
+				<param name="Ширина, мм">163</param>
+				<watering_frequency unit="weeks">ten</watering_frequency>
+			</offer>
+			<offer id="1315" available="true">
+				<url>https://flowwow.loc/offer/1315</url>
+				<categoryId>13</categoryId>
+				<name>Негатив watering_frequency unit weeks отрицательное значение</name>
+				<price>114</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка обработки отрицательного значения watering_frequency.</description>
+				<param name="Высота, мм">214</param>
+				<param name="Ширина, мм">164</param>
+				<watering_frequency unit="weeks">-1</watering_frequency>
+			</offer>
+			<offer id="1316" available="true">
+				<url>https://flowwow.loc/offer/1316</url>
+				<categoryId>13</categoryId>
+				<name>Негатив watering_frequency unit months дробное значение</name>
+				<price>115</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка обработки дробного значения watering_frequency.</description>
+				<param name="Высота, мм">215</param>
+				<param name="Ширина, мм">165</param>
+				<watering_frequency unit="months">1.5</watering_frequency>
+			</offer>
+			<offer id="1317" available="true">
+				<url>https://flowwow.loc/offer/1317</url>
+				<categoryId>13</categoryId>
+				<name>Негатив watering_frequency unit weeks пустое значение</name>
+				<price>116</price>
+				<picture>https://cdn.pixabay.com/photo/2016/08/17/05/57/succulent-1600021_1280.jpg</picture>
+				<description>Проверка обработки пустого значения watering_frequency.</description>
+				<param name="Высота, мм">216</param>
+				<param name="Ширина, мм">166</param>
+				<watering_frequency unit="weeks"></watering_frequency>
+			</offer>
+
+			<!-- categoryId=14, SeedlingPlantForm: control offer only -->
+			<offer id="1401" available="true">
+				<url>https://flowwow.loc/offer/1401</url>
+				<categoryId>14</categoryId>
+				<name>Контроль Саженцы и рассада без новых тегов</name>
+				<price>50</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Контрольный товар для SeedlingPlantForm без проверки watering_frequency и material.</description>
+				<param name="Высота, мм">100</param>
+				<param name="Ширина, мм">50</param>
+			</offer>
+
+			<!-- categoryId=15, HandmadeForm: material checks -->
+			<offer id="1501" available="true">
+				<url>https://flowwow.loc/offer/1501</url>
+				<categoryId>15</categoryId>
+				<name>Позитив material простая строка Керамика</name>
+				<price>200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Проверка импорта материала простой строкой.</description>
+				<param name="Высота, мм">150</param>
+				<param name="Ширина, мм">150</param>
+				<material>Керамика</material>
+			</offer>
+			<offer id="1502" available="true">
+				<url>https://flowwow.loc/offer/1502</url>
+				<categoryId>15</categoryId>
+				<name>Позитив material строка со спецсимволами</name>
+				<price>201</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Проверка импорта материала со спецсимволами и XML escaping.</description>
+				<param name="Высота, мм">151</param>
+				<param name="Ширина, мм">151</param>
+				<material>Глина &amp; дерево, хлопок/лен №1</material>
+			</offer>
+			<offer id="1503" available="true">
+				<url>https://flowwow.loc/offer/1503</url>
+				<categoryId>15</categoryId>
+				<name>Позитив material длинная строка</name>
+				<price>202</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Проверка импорта длинного значения материала.</description>
+				<param name="Высота, мм">152</param>
+				<param name="Ширина, мм">152</param>
+				<material>Керамика ручной работы с покрытием из натуральной глазури и декоративными элементами</material>
+			</offer>
+			<offer id="1504" available="true">
+				<url>https://flowwow.loc/offer/1504</url>
+				<categoryId>15</categoryId>
+				<name>Пограничный material два тега в одном товаре</name>
+				<price>203</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Проверка поведения при повторяющемся теге material.</description>
+				<param name="Высота, мм">153</param>
+				<param name="Ширина, мм">153</param>
+				<material>Хлопок, Молоко</material>
+				<material>Железо</material>
+			</offer>
+			<offer id="1505" available="true">
+				<url>https://flowwow.loc/offer/1505</url>
+				<categoryId>15</categoryId>
+				<name>Негатив material пустое значение</name>
+				<price>204</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Проверка обработки пустого material.</description>
+				<param name="Высота, мм">154</param>
+				<param name="Ширина, мм">154</param>
+				<material></material>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
