@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15 08:52">
+	<shop>
+		<name>Мастер-фид для проверки gender формы Детская одежда</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="28">Детская одежда</category>
+		</categories>
+		<offers>
+			<offer id="28001" available="true">
+				<url>https://flowwow.loc/offer/28001</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender позитив мальчики ожидаем Мальчики</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>мальчики</gender>
+			</offer>
+			<offer id="28002" available="true">
+				<url>https://flowwow.loc/offer/28002</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender позитив мальчик ожидаем Мальчики</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>мальчик</gender>
+			</offer>
+			<offer id="28003" available="true">
+				<url>https://flowwow.loc/offer/28003</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender позитив boys ожидаем Мальчики</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>boys</gender>
+			</offer>
+			<offer id="28004" available="true">
+				<url>https://flowwow.loc/offer/28004</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender позитив девочки ожидаем Девочки</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>девочки</gender>
+			</offer>
+			<offer id="28005" available="true">
+				<url>https://flowwow.loc/offer/28005</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender позитив девочка ожидаем Девочки</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>девочка</gender>
+			</offer>
+			<offer id="28006" available="true">
+				<url>https://flowwow.loc/offer/28006</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender позитив girls ожидаем Девочки</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>girls</gender>
+			</offer>
+			<offer id="28007" available="true">
+				<url>https://flowwow.loc/offer/28007</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender позитив новорожденные ожидаем Новорожденные</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>новорожденные</gender>
+			</offer>
+			<offer id="28008" available="true">
+				<url>https://flowwow.loc/offer/28008</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender позитив новорождённые ожидаем Новорожденные</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>новорождённые</gender>
+			</offer>
+			<offer id="28009" available="true">
+				<url>https://flowwow.loc/offer/28009</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender позитив newborn ожидаем Новорожденные</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>newborn</gender>
+			</offer>
+			<offer id="28010" available="true">
+				<url>https://flowwow.loc/offer/28010</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender негатив мужчины</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>мужчины</gender>
+			</offer>
+			<offer id="28011" available="true">
+				<url>https://flowwow.loc/offer/28011</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender негатив мужчина</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>мужчина</gender>
+			</offer>
+			<offer id="28012" available="true">
+				<url>https://flowwow.loc/offer/28012</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender негатив male</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>male</gender>
+			</offer>
+			<offer id="28013" available="true">
+				<url>https://flowwow.loc/offer/28013</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender негатив men</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>men</gender>
+			</offer>
+			<offer id="28014" available="true">
+				<url>https://flowwow.loc/offer/28014</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender негатив женщины</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>женщины</gender>
+			</offer>
+			<offer id="28015" available="true">
+				<url>https://flowwow.loc/offer/28015</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender негатив женщина</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>женщина</gender>
+			</offer>
+			<offer id="28016" available="true">
+				<url>https://flowwow.loc/offer/28016</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender негатив female</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>female</gender>
+			</offer>
+			<offer id="28017" available="true">
+				<url>https://flowwow.loc/offer/28017</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender негатив women</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>women</gender>
+			</offer>
+			<offer id="28018" available="true">
+				<url>https://flowwow.loc/offer/28018</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender негатив дети</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>дети</gender>
+			</offer>
+			<offer id="28019" available="true">
+				<url>https://flowwow.loc/offer/28019</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender негатив children</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>children</gender>
+			</offer>
+			<offer id="28020" available="true">
+				<url>https://flowwow.loc/offer/28020</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender негатив kids</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>kids</gender>
+			</offer>
+			<offer id="28021" available="true">
+				<url>https://flowwow.loc/offer/28021</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender негатив test</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>test</gender>
+			</offer>
+			<offer id="28022" available="true">
+				<url>https://flowwow.loc/offer/28022</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender негатив unisex</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender>unisex</gender>
+			</offer>
+			<offer id="28023" available="true">
+				<url>https://flowwow.loc/offer/28023</url>
+				<categoryId>28</categoryId>
+				<name>Детская одежда gender негатив empty</name>
+				<price>1200</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Для кого для формы Детская одежда</description>
+				<qty>10</qty>
+				<gender></gender>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
