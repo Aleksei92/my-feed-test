@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-08-15 09:01">
+	<shop>
+		<name>Мастер-фид для проверки ArtForm</name>
+		<company>ООО Тест</company>
+		<url>https://flowwow.loc</url>
+		<categories>
+			<category id="35">Картины</category>
+		</categories>
+		<offers>
+			<offer id="35001" available="true">
+				<url>https://flowwow.loc/offer/35001</url>
+				<categoryId>35</categoryId>
+				<name>Картина original позитив Оригинал ожидаем Оригинал</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Оригинал для формы Картины</description>
+				<material>Железо</material>
+				<author>Иван Иванов</author>
+				<original>Оригинал</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35002" available="true">
+				<url>https://flowwow.loc/offer/35002</url>
+				<categoryId>35</categoryId>
+				<name>Картина original позитив оригинал ожидаем Оригинал</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Оригинал для формы Картины</description>
+				<material>Железо</material>
+				<author>Иван Иванов</author>
+				<original>оригинал</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35003" available="true">
+				<url>https://flowwow.loc/offer/35003</url>
+				<categoryId>35</categoryId>
+				<name>Картина original позитив original ожидаем Оригинал</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Оригинал для формы Картины</description>
+				<material>Железо</material>
+				<author>Иван Иванов</author>
+				<original>original</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35004" available="true">
+				<url>https://flowwow.loc/offer/35004</url>
+				<categoryId>35</categoryId>
+				<name>Картина original позитив 1 ожидаем Оригинал</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Оригинал для формы Картины</description>
+				<material>Железо</material>
+				<author>Иван Иванов</author>
+				<original>1</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35005" available="true">
+				<url>https://flowwow.loc/offer/35005</url>
+				<categoryId>35</categoryId>
+				<name>Картина original позитив репродукция ожидаем Репродукция</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Оригинал для формы Картины</description>
+				<material>Железо</material>
+				<author>Иван Иванов</author>
+				<original>репродукция</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35006" available="true">
+				<url>https://flowwow.loc/offer/35006</url>
+				<categoryId>35</categoryId>
+				<name>Картина original позитив reproduction ожидаем Репродукция</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Оригинал для формы Картины</description>
+				<material>Железо</material>
+				<author>Иван Иванов</author>
+				<original>reproduction</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35007" available="true">
+				<url>https://flowwow.loc/offer/35007</url>
+				<categoryId>35</categoryId>
+				<name>Картина original позитив 2 ожидаем Репродукция</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Оригинал для формы Картины</description>
+				<material>Железо</material>
+				<author>Иван Иванов</author>
+				<original>2</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35008" available="true">
+				<url>https://flowwow.loc/offer/35008</url>
+				<categoryId>35</categoryId>
+				<name>Картина original негатив copy</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Оригинал для формы Картины</description>
+				<material>Железо</material>
+				<author>Иван Иванов</author>
+				<original>copy</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35009" available="true">
+				<url>https://flowwow.loc/offer/35009</url>
+				<categoryId>35</categoryId>
+				<name>Картина original негатив реплика</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Оригинал для формы Картины</description>
+				<material>Железо</material>
+				<author>Иван Иванов</author>
+				<original>реплика</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35010" available="true">
+				<url>https://flowwow.loc/offer/35010</url>
+				<categoryId>35</categoryId>
+				<name>Картина original негатив 3</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Оригинал для формы Картины</description>
+				<material>Железо</material>
+				<author>Иван Иванов</author>
+				<original>3</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35011" available="true">
+				<url>https://flowwow.loc/offer/35011</url>
+				<categoryId>35</categoryId>
+				<name>Картина original негатив test</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Оригинал для формы Картины</description>
+				<material>Железо</material>
+				<author>Иван Иванов</author>
+				<original>test</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35012" available="true">
+				<url>https://flowwow.loc/offer/35012</url>
+				<categoryId>35</categoryId>
+				<name>Картина original негатив empty</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Негативная проверка поля Оригинал для формы Картины</description>
+				<material>Железо</material>
+				<author>Иван Иванов</author>
+				<original></original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35013" available="true">
+				<url>https://flowwow.loc/offer/35013</url>
+				<categoryId>35</categoryId>
+				<name>Картина author позитив Иван Иванов</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Автор для формы Картины</description>
+				<material>Железо</material>
+				<author>Иван Иванов</author>
+				<original>Оригинал</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35014" available="true">
+				<url>https://flowwow.loc/offer/35014</url>
+				<categoryId>35</categoryId>
+				<name>Картина author позитив Пабло Пикассо</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Автор для формы Картины</description>
+				<material>Железо</material>
+				<author>Пабло Пикассо</author>
+				<original>Оригинал</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35015" available="true">
+				<url>https://flowwow.loc/offer/35015</url>
+				<categoryId>35</categoryId>
+				<name>Картина author позитив Vincent van Gogh</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Автор для формы Картины</description>
+				<material>Железо</material>
+				<author>Vincent van Gogh</author>
+				<original>Оригинал</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35016" available="true">
+				<url>https://flowwow.loc/offer/35016</url>
+				<categoryId>35</categoryId>
+				<name>Картина author позитив Автор 123</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Автор для формы Картины</description>
+				<material>Железо</material>
+				<author>Автор 123</author>
+				<original>Оригинал</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35017" available="true">
+				<url>https://flowwow.loc/offer/35017</url>
+				<categoryId>35</categoryId>
+				<name>Картина author позитив Иван-Иванов</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Автор для формы Картины</description>
+				<material>Железо</material>
+				<author>Иван-Иванов</author>
+				<original>Оригинал</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35018" available="true">
+				<url>https://flowwow.loc/offer/35018</url>
+				<categoryId>35</categoryId>
+				<name>Картина author позитив Иван Иванов Петров</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Автор для формы Картины</description>
+				<material>Железо</material>
+				<author>Иван Иванов Петров</author>
+				<original>Оригинал</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35019" available="true">
+				<url>https://flowwow.loc/offer/35019</url>
+				<categoryId>35</categoryId>
+				<name>Картина author позитив A</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Позитивная проверка поля Автор для формы Картины</description>
+				<material>Железо</material>
+				<author>A</author>
+				<original>Оригинал</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35020" available="true">
+				<url>https://flowwow.loc/offer/35020</url>
+				<categoryId>35</categoryId>
+				<name>Картина author пустое значение</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Проверка пустого значения поля Автор для формы Картины</description>
+				<material>Железо</material>
+				<author></author>
+				<original>Оригинал</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+			<offer id="35021" available="true">
+				<url>https://flowwow.loc/offer/35021</url>
+				<categoryId>35</categoryId>
+				<name>Картина author отсутствует</name>
+				<price>15000</price>
+				<picture>https://cdn.pixabay.com/photo/2018/06/17/02/52/color-3480838_1280.jpg</picture>
+				<description>Проверка отсутствующего поля Автор для формы Картины</description>
+				<material>Железо</material>
+				<original>Оригинал</original>
+				<param name="Высота, мм">500</param>
+				<param name="Ширина, мм">700</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
