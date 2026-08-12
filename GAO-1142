@@ -19,6 +19,63 @@
 				<consist name="роза" unit="шт">5</consist>
 				<param name="Высота, мм">400</param>
 				<param name="Ширина, мм">250</param>
+<offer id="8001">
+				<categoryId>1</categoryId>
+				<price>1500</price>
+				<name></name>
+				<description>Букет из пяти красных роз.</description>
+				<picture>https://cdn.pixabay.com/photo/2017/08/06/00/40/bouquet-2589502_1280.jpg</picture>
+				<consist name="роза" unit="шт">1</consist>
+<param name="Высота, мм">80</param>
+<param name="Ширина, мм">50</param>
+			</offer>
+			<offer id="8002">
+				<categoryId>1</categoryId>
+				<price></price>
+				<name>Букет из белых тюльпанов без цены</name>
+				<description>Пять тюльпанов в крафтовой упаковке.</description>
+				<picture>https://cdn.pixabay.com/photo/2016/04/23/00/44/tulips-1346765_1280.jpg</picture>
+				<consist name="роза" unit="шт">1</consist>
+<param name="Высота, мм">80</param>
+<param name="Ширина, мм">50</param>
+			</offer>
+			<offer id="8003">
+				<categoryId>1</categoryId>
+				<price>1200</price>
+				<name>Букет из сирени без картинки</name>
+				<description>Ароматный букет сирени.</description>
+				<picture></picture>
+				<consist name="роза" unit="шт">1</consist>
+<param name="Высота, мм">80</param>
+<param name="Ширина, мм">50</param>
+			</offer>
+			<offer id="8005">
+				<categoryId>1</categoryId>
+<price>500</price>
+<name>Супер товар без ошибок</name>
+<description>Красивая красная роза</description>
+<picture>https://flowwow.loc/rose.jpg</picture>
+<param name="Высота, мм">80</param>
+<param name="Ширина, мм">50</param>
+<consist name="роза" unit="шт">1</consist>
+			</offer>
+			<offer id="8004">
+				<categoryId>1</categoryId>
+				<price>1800</price>
+				<name>Букет из пионов (с пустым составом)</name>
+				<description>Пышный букет розовых пионов для тестирования.</description>
+				<picture>https://cdn.pixabay.com/photo/2016/07/04/17/04/bouquet-1497274_1280.jpg</picture>
+<param name="Высота, мм">80</param>
+<param name="Ширина, мм">50</param>
+			</offer>
+<offer id="8006">
+				<categoryId>1</categoryId>
+<price>500</price>
+<name>цветок без размеров</name>
+<description>Красивая красная роза</description>
+<picture>https://flowwow.loc/rose.jpg</picture>
+<consist name="роза" unit="шт">1</consist>
+			</offer>
 			</offer>
          </offers>
     </shop>
