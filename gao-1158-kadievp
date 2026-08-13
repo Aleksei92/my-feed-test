@@ -10,67 +10,56 @@
         </categories>
 
         <offers>
-            <!-- Тип 1: Декларация о соответствии, русские названия параметров -->
-            <offer id="GAO-1158-YML-DECLARATION" available="true">
-                <url>https://flowwow.loc/offer/gao-1158-declaration</url>
+            <offer id="GAO1158DECL1" available="true">
+                <url>https://flowwow.loc/offer/gao1158decl1</url>
                 <categoryId>23</categoryId>
-                <name>GAO-1158 Декор — декларация</name>
+                <name>Декор — декларация соответствия</name>
                 <price>1500</price>
                 <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
-                <description>Проверка импорта декларации о соответствии</description>
+                <description>Проверка импорта документа соответствия</description>
                 <param name="Высота, мм">300</param>
                 <param name="Ширина, мм">300</param>
                 <material>Железо, дерево</material>
-
-                <param name="документ соответствия">1</param>
-                <param name="ссылка на документ">https://pub.fsa.gov.ru/rds/declaration/view/123</param>
+                <compliance_document_type>1</compliance_document_type>
+                <compliance_document_link>https://pub.fsa.gov.ru/rds/declaration/view/123</compliance_document_link>
             </offer>
-
-            <!-- Тип 2: Сертификат соответствия, английские названия параметров -->
-            <offer id="GAO-1158-YML-CERTIFICATE" available="true">
-                <url>https://flowwow.loc/offer/gao-1158-certificate</url>
+            <offer id="GAO1158CERT2" available="true">
+                <url>https://flowwow.loc/offer/gao1158cert2</url>
                 <categoryId>23</categoryId>
-                <name>GAO-1158 Декор — сертификат</name>
+                <name>Декор — сертификат соответствия</name>
                 <price>1600</price>
                 <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
                 <description>Проверка импорта сертификата соответствия</description>
                 <param name="Высота, мм">300</param>
                 <param name="Ширина, мм">300</param>
                 <material>Железо, дерево</material>
-
-                <param name="compliance document">2</param>
-                <param name="compliance document link">https://pub.fsa.gov.ru/rss/certificate/view/123</param>
+                <compliance_document_type>2</compliance_document_type>
+                <compliance_document_link>https://pub.fsa.gov.ru/rss/certificate/view/123</compliance_document_link>
             </offer>
-
-            <!-- Тип 3: Свидетельство о госрегистрации, snake_case -->
-            <offer id="GAO-1158-YML-REGISTRATION" available="true">
-                <url>https://flowwow.loc/offer/gao-1158-registration</url>
+            <offer id="GAO1158REG3" available="true">
+                <url>https://flowwow.loc/offer/gao1158reg3</url>
                 <categoryId>23</categoryId>
-                <name>GAO-1158 Декор — свидетельство</name>
+                <name>Декор — свидетельство о госрегистрации</name>
                 <price>1700</price>
                 <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
-                <description>Проверка импорта свидетельства о государственной регистрации</description>
+                <description>Проверка импорта свидетельства о госрегистрации</description>
                 <param name="Высота, мм">300</param>
                 <param name="Ширина, мм">300</param>
                 <material>Железо, дерево</material>
-
-                <param name="compliance_document_type">3</param>
-                <param name="compliance_document_link">https://nsi.eaeunion.org/portal/1995/card/e95d7e5b-89e1-4bf9-ba3d-7ea162cc29bf</param>
+                <compliance_document_type>3</compliance_document_type>
+                <compliance_document_link>https://nsi.eaeunion.org/portal/1995/card/e95d7e5b-89e1-4bf9-ba3d-7ea162cc29bf</compliance_document_link>
             </offer>
-
-            <!-- Тип 4: подтверждение соответствия не требуется, ссылка отсутствует -->
-            <offer id="GAO-1158-YML-NOT-REQUIRED" available="true">
-                <url>https://flowwow.loc/offer/gao-1158-not-required</url>
+            <offer id="GAO1158NONE4" available="true">
+                <url>https://flowwow.loc/offer/gao1158none4</url>
                 <categoryId>23</categoryId>
-                <name>GAO-1158 Декор — документ не требуется</name>
+                <name>Декор — подтверждение не требуется</name>
                 <price>1800</price>
                 <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
-                <description>Проверка импорта товара без необходимости подтверждения соответствия</description>
+                <description>Проверка импорта типа 4</description>
                 <param name="Высота, мм">300</param>
                 <param name="Ширина, мм">300</param>
                 <material>Железо, дерево</material>
-
-                <param name="compliance_document_type">4</param>
+                <compliance_document_type>4</compliance_document_type>
             </offer>
         </offers>
     </shop>
