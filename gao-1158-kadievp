@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-08-13 12:00">
+    <shop>
+        <name>GAO-1158 — документы соответствия</name>
+        <company>ООО Тест</company>
+        <url>https://flowwow.loc</url>
+
+        <categories>
+            <category id="23">Декор</category>
+        </categories>
+
+        <offers>
+            <!-- Тип 1: Декларация о соответствии, русские названия параметров -->
+            <offer id="GAO-1158-YML-DECLARATION" available="true">
+                <url>https://flowwow.loc/offer/gao-1158-declaration</url>
+                <categoryId>23</categoryId>
+                <name>GAO-1158 Декор — декларация</name>
+                <price>1500</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Проверка импорта декларации о соответствии</description>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
+
+                <param name="документ соответствия">1</param>
+                <param name="ссылка на документ">https://pub.fsa.gov.ru/rds/declaration/view/123</param>
+            </offer>
+
+            <!-- Тип 2: Сертификат соответствия, английские названия параметров -->
+            <offer id="GAO-1158-YML-CERTIFICATE" available="true">
+                <url>https://flowwow.loc/offer/gao-1158-certificate</url>
+                <categoryId>23</categoryId>
+                <name>GAO-1158 Декор — сертификат</name>
+                <price>1600</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Проверка импорта сертификата соответствия</description>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
+
+                <param name="compliance document">2</param>
+                <param name="compliance document link">https://pub.fsa.gov.ru/rss/certificate/view/123</param>
+            </offer>
+
+            <!-- Тип 3: Свидетельство о госрегистрации, snake_case -->
+            <offer id="GAO-1158-YML-REGISTRATION" available="true">
+                <url>https://flowwow.loc/offer/gao-1158-registration</url>
+                <categoryId>23</categoryId>
+                <name>GAO-1158 Декор — свидетельство</name>
+                <price>1700</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Проверка импорта свидетельства о государственной регистрации</description>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
+
+                <param name="compliance_document_type">3</param>
+                <param name="compliance_document_link">https://nsi.eaeunion.org/portal/1995/card/e95d7e5b-89e1-4bf9-ba3d-7ea162cc29bf</param>
+            </offer>
+
+            <!-- Тип 4: подтверждение соответствия не требуется, ссылка отсутствует -->
+            <offer id="GAO-1158-YML-NOT-REQUIRED" available="true">
+                <url>https://flowwow.loc/offer/gao-1158-not-required</url>
+                <categoryId>23</categoryId>
+                <name>GAO-1158 Декор — документ не требуется</name>
+                <price>1800</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Проверка импорта товара без необходимости подтверждения соответствия</description>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
+
+                <param name="compliance_document_type">4</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
