@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-13 12:00">
+<yml_catalog date="2026-08-13 15:00">
     <shop>
-        <name>GAO-1158 — документы соответствия</name>
+        <name>GAO-1158 — полный набор проверок</name>
         <company>ООО Тест</company>
         <url>https://flowwow.loc</url>
 
@@ -10,56 +10,239 @@
         </categories>
 
         <offers>
-            <offer id="GAO1158DECL1" available="true">
-                <url>https://flowwow.loc/offer/gao1158decl1</url>
+            <!-- POSITIVE: поля отсутствуют -->
+            <offer id="GAO1158-NOFIELDS" available="true">
+                <url>https://flowwow.loc/offer/no-fields</url>
                 <categoryId>23</categoryId>
-                <name>Декор — декларация соответствия</name>
-                <price>1500</price>
+                <name>GAO-1158 Без документа</name>
+                <price>1001</price>
                 <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
-                <description>Проверка импорта документа соответствия</description>
+                <description>Поля документа отсутствуют</description>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
+            </offer>
+
+            <!-- POSITIVE: тип 1 -->
+            <offer id="GAO1158-VALID-T1" available="true">
+                <url>https://flowwow.loc/offer/valid-type-1</url>
+                <categoryId>23</categoryId>
+                <name>GAO-1158 Валидный тип 1</name>
+                <price>1002</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Декларация о соответствии</description>
                 <param name="Высота, мм">300</param>
                 <param name="Ширина, мм">300</param>
                 <material>Железо, дерево</material>
                 <compliance_document_type>1</compliance_document_type>
                 <compliance_document_link>https://pub.fsa.gov.ru/rds/declaration/view/123</compliance_document_link>
             </offer>
-            <offer id="GAO1158CERT2" available="true">
-                <url>https://flowwow.loc/offer/gao1158cert2</url>
+
+            <!-- POSITIVE: тип 2 -->
+            <offer id="GAO1158-VALID-T2" available="true">
+                <url>https://flowwow.loc/offer/valid-type-2</url>
                 <categoryId>23</categoryId>
-                <name>Декор — сертификат соответствия</name>
-                <price>1600</price>
+                <name>GAO-1158 Валидный тип 2</name>
+                <price>1003</price>
                 <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
-                <description>Проверка импорта сертификата соответствия</description>
+                <description>Сертификат соответствия</description>
                 <param name="Высота, мм">300</param>
                 <param name="Ширина, мм">300</param>
                 <material>Железо, дерево</material>
                 <compliance_document_type>2</compliance_document_type>
                 <compliance_document_link>https://pub.fsa.gov.ru/rss/certificate/view/123</compliance_document_link>
             </offer>
-            <offer id="GAO1158REG3" available="true">
-                <url>https://flowwow.loc/offer/gao1158reg3</url>
+
+            <!-- POSITIVE: тип 3 -->
+            <offer id="GAO1158-VALID-T3" available="true">
+                <url>https://flowwow.loc/offer/valid-type-3</url>
                 <categoryId>23</categoryId>
-                <name>Декор — свидетельство о госрегистрации</name>
-                <price>1700</price>
+                <name>GAO-1158 Валидный тип 3</name>
+                <price>1004</price>
                 <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
-                <description>Проверка импорта свидетельства о госрегистрации</description>
+                <description>Свидетельство о госрегистрации</description>
                 <param name="Высота, мм">300</param>
                 <param name="Ширина, мм">300</param>
                 <material>Железо, дерево</material>
                 <compliance_document_type>3</compliance_document_type>
-                <compliance_document_link>https://nsi.eaeunion.org/portal/1995/card/e95d7e5b-89e1-4bf9-ba3d-7ea162cc29bf</compliance_document_link>
+                <compliance_document_link>https://nsi.eaeunion.org/portal/1995/card/test-document</compliance_document_link>
             </offer>
-            <offer id="GAO1158NONE4" available="true">
-                <url>https://flowwow.loc/offer/gao1158none4</url>
+
+            <!-- POSITIVE: тип 4, ссылка отсутствует -->
+            <offer id="GAO1158-VALID-T4" available="true">
+                <url>https://flowwow.loc/offer/valid-type-4</url>
                 <categoryId>23</categoryId>
-                <name>Декор — подтверждение не требуется</name>
-                <price>1800</price>
+                <name>GAO-1158 Валидный тип 4</name>
+                <price>1005</price>
                 <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
-                <description>Проверка импорта типа 4</description>
+                <description>Подтверждение соответствия не требуется</description>
                 <param name="Высота, мм">300</param>
                 <param name="Ширина, мм">300</param>
                 <material>Железо, дерево</material>
                 <compliance_document_type>4</compliance_document_type>
+            </offer>
+
+            <!-- TYPE 4: передана ссылка, она должна быть удалена -->
+            <offer id="GAO1158-T4-WITHLINK" available="true">
+                <url>https://flowwow.loc/offer/type-4-with-link</url>
+                <categoryId>23</categoryId>
+                <name>GAO-1158 Тип 4 со ссылкой</name>
+                <price>1006</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Ссылка при типе 4 должна быть очищена</description>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
+                <compliance_document_type>4</compliance_document_type>
+                <compliance_document_link>https://pub.fsa.gov.ru/rds/declaration/view/123</compliance_document_link>
+            </offer>
+
+            <!-- NEGATIVE: тип 1 без ссылки -->
+            <offer id="GAO1158-T1-NOLINK" available="true">
+                <url>https://flowwow.loc/offer/type-1-no-link</url>
+                <categoryId>23</categoryId>
+                <name>GAO-1158 Тип 1 без ссылки</name>
+                <price>1007</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Тип 1 без обязательной ссылки</description>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
+                <compliance_document_type>1</compliance_document_type>
+            </offer>
+
+            <!-- NEGATIVE: ссылка без типа -->
+            <offer id="GAO1158-LINK-NOTYPE" available="true">
+                <url>https://flowwow.loc/offer/link-without-type</url>
+                <categoryId>23</categoryId>
+                <name>GAO-1158 Ссылка без типа</name>
+                <price>1008</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Ссылка передана без типа документа</description>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
+                <compliance_document_link>https://pub.fsa.gov.ru/rds/declaration/view/123</compliance_document_link>
+            </offer>
+
+            <!-- NEGATIVE: тип 1 со ссылкой типа 2 -->
+            <offer id="GAO1158-T1-LINK-T2" available="true">
+                <url>https://flowwow.loc/offer/type-1-link-2</url>
+                <categoryId>23</categoryId>
+                <name>GAO-1158 Тип 1 со ссылкой типа 2</name>
+                <price>1009</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Тип и префикс ссылки не совпадают</description>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
+                <compliance_document_type>1</compliance_document_type>
+                <compliance_document_link>https://pub.fsa.gov.ru/rss/certificate/view/123</compliance_document_link>
+            </offer>
+
+            <!-- NEGATIVE: тип 2 со ссылкой типа 1 -->
+            <offer id="GAO1158-T2-LINK-T1" available="true">
+                <url>https://flowwow.loc/offer/type-2-link-1</url>
+                <categoryId>23</categoryId>
+                <name>GAO-1158 Тип 2 со ссылкой типа 1</name>
+                <price>1010</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Тип и префикс ссылки не совпадают</description>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
+                <compliance_document_type>2</compliance_document_type>
+                <compliance_document_link>https://pub.fsa.gov.ru/rds/declaration/view/123</compliance_document_link>
+            </offer>
+
+            <!-- NEGATIVE: тип 3 со ссылкой Росаккредитации -->
+            <offer id="GAO1158-T3-LINK-T1" available="true">
+                <url>https://flowwow.loc/offer/type-3-link-1</url>
+                <categoryId>23</categoryId>
+                <name>GAO-1158 Тип 3 со ссылкой типа 1</name>
+                <price>1011</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Тип и префикс ссылки не совпадают</description>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
+                <compliance_document_type>3</compliance_document_type>
+                <compliance_document_link>https://pub.fsa.gov.ru/rds/declaration/view/123</compliance_document_link>
+            </offer>
+
+            <!-- NEGATIVE: неизвестный тип -->
+            <offer id="GAO1158-INVALID-TYPE" available="true">
+                <url>https://flowwow.loc/offer/invalid-type</url>
+                <categoryId>23</categoryId>
+                <name>GAO-1158 Невалидный тип 5</name>
+                <price>1012</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Тип документа вне enum 1–4</description>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
+                <compliance_document_type>5</compliance_document_type>
+                <compliance_document_link>https://pub.fsa.gov.ru/rds/declaration/view/123</compliance_document_link>
+            </offer>
+
+            <!-- NEGATIVE: посторонний домен -->
+            <offer id="GAO1158-WRONG-DOMAIN" available="true">
+                <url>https://flowwow.loc/offer/wrong-domain</url>
+                <categoryId>23</categoryId>
+                <name>GAO-1158 Посторонний домен</name>
+                <price>1013</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Посторонний домен документа</description>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
+                <compliance_document_type>1</compliance_document_type>
+                <compliance_document_link>https://example.com/rds/declaration/view/123</compliance_document_link>
+            </offer>
+
+            <!-- NEGATIVE: HTTP вместо HTTPS -->
+            <offer id="GAO1158-HTTP-LINK" available="true">
+                <url>https://flowwow.loc/offer/http-link</url>
+                <categoryId>23</categoryId>
+                <name>GAO-1158 HTTP-ссылка</name>
+                <price>1014</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>HTTP вместо HTTPS</description>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
+                <compliance_document_type>1</compliance_document_type>
+                <compliance_document_link>http://pub.fsa.gov.ru/rds/declaration/view/123</compliance_document_link>
+            </offer>
+
+            <!-- BOUNDARY: ссылка равна допустимому префиксу -->
+            <offer id="GAO1158-PREFIX-ONLY" available="true">
+                <url>https://flowwow.loc/offer/prefix-only</url>
+                <categoryId>23</categoryId>
+                <name>GAO-1158 Только префикс</name>
+                <price>1015</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Ссылка равна допустимому префиксу без продолжения</description>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
+                <compliance_document_type>1</compliance_document_type>
+                <compliance_document_link>https://pub.fsa.gov.ru/rds/declaration/view/</compliance_document_link>
+            </offer>
+
+            <!-- NEGATIVE: пробел перед допустимым префиксом -->
+            <offer id="GAO1158-SPACE-BEFORE" available="true">
+                <url>https://flowwow.loc/offer/space-before</url>
+                <categoryId>23</categoryId>
+                <name>GAO-1158 Пробел перед ссылкой</name>
+                <price>1016</price>
+                <picture>https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png</picture>
+                <description>Пробел находится перед допустимым префиксом</description>
+                <param name="Высота, мм">300</param>
+                <param name="Ширина, мм">300</param>
+                <material>Железо, дерево</material>
+                <compliance_document_type>1</compliance_document_type>
+                <compliance_document_link> https://pub.fsa.gov.ru/rds/declaration/view/123</compliance_document_link>
             </offer>
         </offers>
     </shop>
